@@ -1,2 +1,2 @@
-# rust_learnning
+# rust_learning
 learn rust
